@@ -19,13 +19,13 @@ From the project root:
 npm install
 npm run dev:all
 ```
-
+## Contributed by Abinaya Sri
 Frontend: http://localhost:5173  
 Backend: http://localhost:4000
 
 Configure `backend/.env` using `backend/.env.example` with PostgreSQL `DATABASE_URL`, `JWT_SECRET`, and the required AI provider key.
 
-## Build
+## Build 
 
 ```bash
 npm run build
